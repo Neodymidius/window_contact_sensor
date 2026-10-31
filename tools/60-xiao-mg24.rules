@@ -1,0 +1,3 @@
+# Seeed Studio XIAO MG24 onboard CMSIS-DAP debugger.
+SUBSYSTEM=="usb", ATTR{idVendor}=="2886", ATTR{idProduct}=="0062", MODE="0660", GROUP="plugdev", TAG+="uaccess"
+KERNEL=="hidraw*", ATTRS{idVendor}=="2886", ATTRS{idProduct}=="0062", MODE="0660", GROUP="plugdev", TAG+="uaccess"

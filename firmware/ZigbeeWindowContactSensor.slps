@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='ASCII'?>
+<ns0:MDescriptors xmlns:ns0="http://www.silabs.com/ss/Studio.ecore">
+  <descriptors name="ZigbeeWindowContactSensor">
+    <properties key="universalConfig.generationDirectory" value="" />
+    <properties key="universalConfig.toolchainCompatibility" value="iar llvm gcc" />
+    <properties key="projectCommon.overwriteCopiedSources" value="false" />
+    <properties key="projectCommon.boardIds" value="com.silabs.board.none:0.0.0" />
+    <properties key="projectCommon.kitId" value="" />
+    <properties key="projectCommon.partId" value="mcu.arm.efr32.mg24.efr32mg24b220f1536im48" />
+    <properties key="projectCommon.toolchainId" value="com.silabs.ss.framework.project.core.noToolChain:0.0.0" />
+    <properties key="universalConfig.projectTypeIds" value="visual-studio-code" />
+    <properties key="projectCommon.importModeId" value="COPY" />
+    <properties key="universalConfig.filteredToolchains" value="iar llvm gcc" />
+    </descriptors>
+</ns0:MDescriptors>
